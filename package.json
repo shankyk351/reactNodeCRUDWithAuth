@@ -21,6 +21,7 @@
     "jade": "^1.11.0",
     "mongoose": "^5.9.3",
     "react-transition-group": "^4.3.0",
+    "reactReduxCRUD": "file:client",
     "reactstrap": "^8.4.1",
     "uuid": "^7.0.2"
   },
